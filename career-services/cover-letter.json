@@ -1,0 +1,17 @@
+{
+  "Poor motivation in Intro": {
+    "prefix": "motivate",
+    "body": [
+      "Revisit your intro section and what made you apply to BookFace. How you describe BookFace and why you applied is very vague and lacks any sense of interest in the company. BookFace is a social media company, interested in communication and, from the [job description](https://www.learnhowtoprogram.com/internship-and-job-search/applying-for-internships-and-jobs/sample-job-post), they looking for someone to join a specific team at their company."
+    ],
+    "description": "Vague knowledge of BookFace and poor motivation in Intro"
+  },
+
+  "Vague": {
+    "prefix": "vague",
+    "body": [
+      "Overall this cover letter is very vague and doesn't provide any concrete examples to back up statements made about yourself. For example, you say you have experience organizing a team and taking on leadership roles in a project. I would like to see a real follow-up example from your past experience. Maybe here you would describe your leadership role during Team Week at Epicodus."
+    ],
+    "description": "vague cover letter missing concrete examples"
+  }
+}

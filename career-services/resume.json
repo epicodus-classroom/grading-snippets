@@ -1,0 +1,33 @@
+{
+  "Visual": {
+    "prefix": "visual",
+    "body": [
+      "This resume has a very unappealing layout. I recommend using [canva.com](https://www.canva.com/https://www.google.com) or [google templates](https://docs.google.com/document/u/0/?ftv=1&tgif=c) so you don't have to spend so much time on design. I want to make sure you have a resume template you like and can easily update by the time we start applying to jobs in class."
+    ],
+    "description": "Visually unappealing layout"
+  },
+
+  "Contact": {
+    "prefix": "contact",
+    "body": [
+      "Display your contact info (gitHub, LinkedIn, phone, email) more clearly at the top of your resume."
+    ],
+    "description": "No contact info or poorly placed"
+  },
+
+  "Skills Section": {
+    "prefix": "skills",
+    "body": [
+      "Add a skills section. They are expected with tech resumes. List revelent technical and non-technical skills first followed by any other skills not mentioned in the job posting."
+    ],
+    "description": "missing skills section"
+  },
+
+  "Project": {
+    "prefix": "project",
+    "body": [
+      "Add a project section featuring 2-3 projects. A project section is a great way to demonstrate you have the skills stated in your resume. In BookFace's job posting, they are even looking for someone to help build a web application. It would go a long way to show you have built several yourself already. For each project include a url to the GitHub repo (ex: github.com/username/repo-name), a brief description of the project the average user could understand, and technologies used."
+    ],
+    "description": "missing project section"
+  }
+}
