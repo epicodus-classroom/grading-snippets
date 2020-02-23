@@ -1,0 +1,7 @@
+{
+    "NoSpecLoop": {
+        "prefix": ["specloop", "spec"],
+        "body": ["Your results to the user need to show a range of numbers based on the user input with the required specs in place. For example, if user enters 5, then they should see beep, boop, I'm sorry..., 4, 5. With 1 being replaced with beep, 2 with boop, and 3 with 'I'm sorry...'"],
+        "description": "outputs range of numbers but no specs in place"
+    }
+}

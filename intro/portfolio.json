@@ -1,0 +1,48 @@
+{
+    "HTML tags": {
+        "prefix": ["html", "tags"],
+        "body": "Use the following HTML tags: ${1:MISSING HTML TAGS}",
+        "description": "Missing HTML tags"
+    },
+
+    "CSS": {
+        "prefix": ["css"],
+        "body": "Add a custom-made stylesheet! Be sure to explore cascading and use the box modal and floats.",
+        "description": "Missing stylesheet"
+    },
+
+    "Commits": {
+        "prefix": ["commits", "commit", "comm"],
+        "body": "Be sure to commit regularly. I recommend making a commit every 30 minutes to develop good habits. Commits should have clear messages that provide a general idea of the changes that were made and finish the phrase 'It will...' As an example: ${1:COMMIT EXAMPLE}",
+        "description": "Bad commit history"
+    },
+
+    "README": {
+        "prefix": "readme",
+        "body": ["Add a README. [Checkout the README example on LearnHowToProgram](https://www.learnhowtoprogram.com/intro-to-programming-evening/git-html-css-cc4d4bfd-fd26-4b35-b936-5d3e09999094/homework-writing-a-readme-da8e5703-8b08-4cb4-b026-d084e15dcebc). Be sure to include: author name, project name, description, setup instructions, link to your GitHub Pages, and copyright info."],
+        "description": "Missing README"
+    },
+
+    "GitHub Pages": {
+        "prefix": ["gh-pages", "gh", "pages"],
+        "body": "Deploy your project to GitHub Pages. You can follow how to deploy your project to GitHub Pages on LearnHowToProgram: (https://www.learnhowtoprogram.com/intro-to-programming-evening/git-html-css-cc4d4bfd-fd26-4b35-b936-5d3e09999094/github-pages-9914038e-fdca-44b3-b9cd-b675e44888ed)"
+    },
+
+    "Bootstrap": {
+        "prefix": ["bootstrap", "bs"],
+        "body": "Add bootstrap and make use of some of its features! Bootstrap can do a lot of the heavy lifting of styling for you so it's really important to be familiar with it",
+        "description": "Missing Bootstrap"
+    },
+
+    "Indentation": {
+        "prefix": ["indentation", "indent"],
+        "body": "Take some time to revisit indentation in your html file. Right now it's rather difficult to read. Although your code will still run, proper indentation allows other humans to read and understand your code.",
+        "description": "Fix indendation"
+    },
+
+    "Indentation Example": {
+        "prefix": ["exindent"],
+        "body": ["Here's an example to help: Think of indentation as the layout of a house.", " ", "```javascript", "<house class='blue'>","   <kitchen>", "      <sink>a sink</sink>", "      <stove>an old stove</stove>", "    </kitchen>", "   <livingroom>", "      <table>", "         <chair>Chair 1</chair>", "         <chair>Chair 2</chair>", "         <chair>Chair 3</chair>", "      </table>", "   </livingroom>", "</house>","```", " ", "The sink and stove are child elements of the kitchen. For our house analogy, we normally wouldn't see a sink start in the kitchen and end in the livingroom. So we make sure that the sink is nested in kitchen."],
+        "description": "Bad Indentation"
+    }
+}

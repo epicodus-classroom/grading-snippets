@@ -1,0 +1,19 @@
+{
+    "DSstore": {
+        "prefix": ["ds", "DS"],
+        "body": ["Configure your .gitignore\\_global to ignore .DS\\_Store. It is just something your operating system generates and shouldn't go into your repo. [Check out how to configure .git\\_ignore](https://www.learnhowtoprogram.com/intro-to-programming-evening/git-html-css/git-configurations)"],
+        "description": "DS Store not ignored"
+    },
+
+    "Tidy": {
+        "prefix": ["tidy"],
+        "body": ["Be sure to go back and tidy your code. This includes removing console.logs (even if commented out), comments, and unused variables."],
+        "description": "messy code"
+    },
+
+    "Debugger": {
+        "prefix": ["debugger"],
+        "body": ["I recommend [inspecting your application in the browser](https://www.learnhowtoprogram.com/intro-to-programming-evening/javascript-jquery-20c6bbb1-551d-4d45-b751-b7c886943eed/debugging-in-javascript-c7093626-b101-4938-bb3b-93d9b0a78a29) and looking at the Console tab for errors. Your browser also provides a helpful debugger tool under Sources tab which can point to problems in your code when you run your application."],
+        "description": "bad code check console log"
+    }
+}
